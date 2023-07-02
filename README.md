@@ -13,7 +13,7 @@ docker-compose up -d
 Database Configuration
 - Access: `http://localhost:8080`
 - Login with Username/Password: `root/root`
-- Create Dabatase: `qabox`
+- Create Dabatase: `QAReviewerDB`
 - Import data from file: `db/qabox.sql`
 
 The above is the default configuration, you can configure it in the following files:
