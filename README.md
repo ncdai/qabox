@@ -1,5 +1,8 @@
 # QABox by 18120113
 
+- Distributed Applications - FIT@HCMUS
+- Project Score: 10/10
+
 ## Install
 
 Clone Source Code
